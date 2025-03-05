@@ -1,28 +1,26 @@
 {
     "repositories": [
         {
-            "name": "workout_tracker",
-            "repo_url": "https://github.com/sharan122/workout_tracker.git",
-            "folders": ["patterns/creational", "patterns/structural", "patterns/behavioral"],
-            "file_extension": ".py",
-            "file_naming_convention": "snake_case",
-            "starting_time":"02:00 PM",
-            "ending_time":"03:00 PM",
-            "minimum_commits": "9",
-            "maximum_commits": "15"
-           
+            "name": "<repository_name>",
+            "repo_url": "https://github.com/<your_username>/<repository_name>.git",
+            "folders": ["<folder1>", "<folder2>", "<folder3>"],
+            "file_extension": "<file_extension>",  
+            "file_naming_convention": "<snake_case | camelCase | kebab-case>",
+            "starting_time": "<HH:MM AM/PM>",
+            "ending_time": "<HH:MM AM/PM>",
+            "minimum_commits": "<minimum_number_of_commits>",
+            "maximum_commits": "<maximum_number_of_commits>"
         },
         {
-            "name": "django-graphql-apis",
-            "repo_url": "https://github.com/sharan122/workout_tracker.git",
-            "folders": ["graphql_schemas", "graphql_queries", "mutations", "resolvers"],
-            "file_extension": ".py",
-            "file_naming_convention": "camelCase",
-            "starting_time":"12:00 AM",
-            "ending_time":"12:00 PM",
-            "minimum_commits": "15",
-            "maximum_commits": "20"
-            
+            "name": "<repository_name_2>",
+            "repo_url": "https://github.com/<your_username>/<repository_name_2>.git",
+            "folders": ["<folder1>", "<folder2>", "<folder3>"],
+            "file_extension": "<file_extension>",
+            "file_naming_convention": "<snake_case | camelCase | kebab-case>",
+            "starting_time": "<HH:MM AM/PM>",
+            "ending_time": "<HH:MM AM/PM>",
+            "minimum_commits": "<minimum_number_of_commits>",
+            "maximum_commits": "<maximum_number_of_commits>"
         }
     ]
 }
